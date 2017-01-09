@@ -1,4 +1,4 @@
-# Kickflip SDK Example Application
+# Live Stream Example Application
 
 ![kickflip app screenshot](http://i.imgur.com/dbqVqzL.jpg)
 [![Google Play link](http://steverichey.github.io/google-play-badge-svg/img/en_get.svg)](https://play.google.com/store/apps/details?id=io.kickflip.sample)
